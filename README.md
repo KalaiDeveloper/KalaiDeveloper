@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.kalaiselvan.com"><img src="https://img.shields.io/badge/Portfolio-kalaiselvan.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.kalaiselvan.com"><img src="https://img.shields.io/badge/Portfolio-about.kalaiselvan.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/kalaidev/"><img src="https://img.shields.io/badge/LinkedIn-kalaidev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/KalaiDeveloper?tab=followers"><img src="https://img.shields.io/github/followers/KalaiDeveloper?label=Followers&style=for-the-badge&logo=github&color=2c5364" alt="Followers" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0-0f2027?style=for-the-badge" alt="Sri Lanka" />
