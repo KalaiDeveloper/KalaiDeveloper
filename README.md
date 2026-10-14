@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.kalaiselvan.com"><img src="https://img.shields.io/badge/Portfolio-about.kalaiselvan.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://about.kalaiselvan.com"><img src="https://img.shields.io/badge/Portfolio-about.kalaiselvan.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/kalaidev/"><img src="https://img.shields.io/badge/LinkedIn-kalaidev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/KalaiDeveloper?tab=followers"><img src="https://img.shields.io/github/followers/KalaiDeveloper?label=Followers&style=for-the-badge&logo=github&color=2c5364" alt="Followers" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0-0f2027?style=for-the-badge" alt="Sri Lanka" />
@@ -83,7 +83,7 @@ I love turning ideas into clean, working software, and after 7+ years of teachin
 
 ## 🤝 Let's Connect
 
-I'm open to internships, collaborations and learning opportunities. Reach out via my [portfolio](https://www.kalaiselvan.com) or [LinkedIn](https://www.linkedin.com/in/kalaidev/).
+I'm open to internships, collaborations and learning opportunities. Reach out via my [portfolio](https://about.kalaiselvan.com) or [LinkedIn](https://www.linkedin.com/in/kalaidev/).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
